@@ -10,6 +10,12 @@ https://todoappreact-hariom.onrender.com/
 
 <hr />
 
+
+Link to the API being used to fetch the data : https://jsonplaceholder.typicode.com/todos
+
+
+<hr />
+
 ## Installation Options
 
 ```
